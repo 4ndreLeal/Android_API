@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.oceanbrasil.ocean_android_intro_13_e_15_09_2022"
+        applicationId "com.android.Android_API"
         minSdk 16
         targetSdk 32
         versionCode 1
